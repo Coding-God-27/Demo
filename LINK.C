@@ -22,6 +22,6 @@ ptr=ptr->link;
 printf("Node content is\n");
 printf("%c\t%p\n",ptr->data,ptr);
 getch();
-
+printf("End");
 
 }
